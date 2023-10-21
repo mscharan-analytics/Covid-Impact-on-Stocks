@@ -9,6 +9,7 @@ Our project is dedicated to understanding the profound impact of the COVID-19 pa
 2. Post-COVID-19 Performance: Our research will extend beyond the pandemic's immediate effects. We will assess how industries have performed in the post-COVID-19 era, allowing us to measure their resilience and adaptability in the face of ongoing challenges.
 3. Investment Recommendations: Based on our findings, we will provide insightful recommendations on which industries are most suitable for various types of investment. This will include identifying sectors that have shown stability, growth potential, or unique investment opportunities in the new normal.
 4. Comparative Analysis: Our analysis will involve comparative studies between industries, enabling us to highlight relative performance and potential cross-sector investment strategies.
+<img width="1289" alt="Screenshot 2023-10-20 at 8 38 46 PM" src="https://github.com/mscharan-analytics/Covid-Impact-on-Stocks/assets/140626070/cc53e70f-1bb2-4d78-a27f-6a1912cfd108">
 
 Data Source:
 
